@@ -1,0 +1,7 @@
+
+let roundScore = 0;
+let gameOver = false;
+
+const roll = document.getElementById("roll");
+const reset = document.getElementById("reset");
+const scoreTotal = document.getElementById

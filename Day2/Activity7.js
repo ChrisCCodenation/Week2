@@ -1,4 +1,4 @@
-let str = "jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwsh";
+let str = "lhkjhjfdewtreuyioijkjnj";
 const vowels = "aeiouAEIOU";
 let lastVowelIndex = -1;
  
